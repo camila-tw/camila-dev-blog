@@ -1,8 +1,10 @@
 ---
-title: Blockchain
+title: 區塊鏈介紹
 date: 2022-05-13 10:16:09
 tags:
-  - blockchain
+  - Blockchain
+categories: 
+  - Blockchain
 thumbnail: https://firebasestorage.googleapis.com/v0/b/camila-dev-blog.appspot.com/o/DALL%C2%B7E%202024-05-26%2014.18.02%20-%20A%20modern%20digital%20banner%20illustrating%20the%20concept%20of%20blockchain.%20The%20banner%20features%20key%20elements%20such%20as%20interconnected%20blocks%20forming%20a%20chain%2C%20nodes%2C.webp?alt=media&token=82d548de-6bf6-4f2f-8ef8-cccfa2482b3d
 excerpt: 介紹了區塊鏈的基本概念、去中心化的意義及不同的共識機制，並提供了一些額外的學習資源
 ---

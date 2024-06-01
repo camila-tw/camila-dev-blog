@@ -1,9 +1,12 @@
 ---
 title: Hardhat
-date: 2024-05-27 15:02:41
+date: 2022-05-27 15:02:41
 tags:
-  - blockchain
-  - 部署
+  - Blockchain
+  - SmartContract
+  - Tools
+categories: 
+  - Blockchain
 thumbnail: https://firebasestorage.googleapis.com/v0/b/camila-dev-blog.appspot.com/o/DALL%C2%B7E%202024-05-27%2015.12.57%20-%20A%20modern%20digital%20banner%20for%20a%20blog%20post%20about%20Hardhat%2C%20an%20Ethereum%20development%20tool.%20The%20banner%20features%20the%20Hardhat%20logo%2C%20a%20construction%20hat%2C%20and%20ele.webp?alt=media&token=fbb84b06-45ba-41a7-991d-b7bbc44a027c
 excerpt: 介紹Hardhat，一款兼容 EVM 的開發工具，專為以太坊和其他 EVM 兼容區塊鏈的開發者設計。詳細說明Hardhat簡介、安裝步驟、環境建置過程，以及如何編譯、部署和測試智能合約。內容包括配置 Hardhat、編寫和運行部署腳本以及測試合約的詳細說明，是一份全面的 Hardhat 使用指南。
 ---

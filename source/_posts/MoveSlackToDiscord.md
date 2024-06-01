@@ -3,7 +3,10 @@ title: 如何將Slack頻道和對話紀錄轉移到Discord
 date: 2024-05-19 21:47:42
 tags:
   - Discord
-  - 腳本
+  - Script
+  - 機器人
+  - Python
+categories: 
   - 機器人
 thumbnail: https://firebasestorage.googleapis.com/v0/b/camila-dev-blog.appspot.com/o/DALL%C2%B7E%202024-05-26%2019.12.12%20-%20A%20modern%20digital%20banner%20illustrating%20the%20process%20of%20transferring%20Slack%20channels%20and%20conversations%20to%20Discord.%20The%20banner%20features%20logos%20of%20Slack%20and%20D.webp?alt=media&token=d05d43dc-fbe6-4669-b6e0-ccad7f521a56
 
